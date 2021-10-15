@@ -1,7 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&family=Share+Tech+Mono&display=swap");
 
-/* Global styles */
-
 *,
 *::before,
 *::after {
@@ -21,11 +19,11 @@ html {
 
 a {
   text-decoration: none;
-  color: rgb(3, 155, 155);
+  color: rgb(16, 59, 187);
 }
 
 a:hover {
-  color: rgba(249, 105, 14, 1);
+  color: rgb(192, 17, 104);
 }
 
 ul {
